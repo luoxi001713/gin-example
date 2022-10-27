@@ -1,1 +1,1 @@
-# gin-init
+# gin-example
